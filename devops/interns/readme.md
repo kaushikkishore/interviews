@@ -2,7 +2,7 @@ Certainly, here are the exact questions for points 1-7 related to practical Kube
 
 1. **Container Deployment:**
 
-   - "Given a Docker image (e.g., `kaushikkishore/application:v1`), can you demonstrate how to create a Kubernetes Deployment to run three replicas of this container in the cluster?"
+   - "Given a Docker image (e.g., `kaushikkishore/application:v1` PORT `3000`), can you demonstrate how to create a Kubernetes Deployment to run three replicas of this container in the cluster?"
 
 2. **Scaling and Autoscaling:**
 
